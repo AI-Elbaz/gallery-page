@@ -101,8 +101,8 @@ header h2 {
     width: 100%;
     height: 100%;
     display: block;
-    transition: 0.5s ease-in-out;
     position: absolute;
+    transition: 0.5s ease-in-out;
     background-image: linear-gradient(90deg, #0000,rgba(255, 255, 255, 0.4), #0000);
 }
 
