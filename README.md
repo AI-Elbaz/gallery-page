@@ -1,66 +1,19 @@
-<!-- Please update value in the {}  -->
+# My Gallery
+###### Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
-<h1 align="center">My Gallery</h1>
-
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
-  <h3>
-    <a href="https://aboodibrahim.github.io/gallery-page">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://github.com/AboodIbrahim/gallery-page">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
-      Challenge
-    </a>
-  </h3>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
-
-## Overview
-
-![screenshot](images/preview.png)
-
-This is a gallery page made with grid
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- HTML
-- CSS
+![screenshot](https://repository-images.githubusercontent.com/369511940/e2cabedc-9a43-45d6-997d-109a8c6d71de)
+<br /><br />
+<h3 align="center">
+   <a href="https://aboodibrahim.github.io/gallery-page">Demo</a>
+   <span> | </span>
+   <a href="https://github.com/AboodIbrahim/gallery-page">Solution</a>
+   <span> | </span>
+   <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">Challenge</a>
+</h3>
+<br />
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
-
+- Added custom hover effect for the gallery Items.
 
 ## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
 - [CSS positioning grid items](https://www.tutorialbrain.com/css_tutorial/grid_columns_grid_rows_grid_area/)
-
-
-## Contact
-
-- GitHub [@AboodIbrahim](https://{github.com/AboodIbrahim})
